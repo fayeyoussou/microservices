@@ -1,0 +1,9 @@
+[submodule "discovery"]
+	path = discovery
+	url = https://github.com/fayeyoussou/discovery
+[submodule "api-gateway"]
+	path = api-gateway
+	url = https://github.com/fayeyoussou/api-gateway
+[submodule "uaa-service"]
+	path = uaa-service
+	url = https://github.com/fayeyoussou/uaa-service
